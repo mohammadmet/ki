@@ -1,17 +1,17 @@
 Viada Knowledge Base
 
 This repository serves as a knowledge base for Viada GmbH & Co. KG, highlighting their expertise in IT consulting, custom software development, DevOps, and cloud infrastructure services. Viada is located in Dortmund, Germany.
-Table of Contents
+## Table of Contents
+- [Overview](#overview)
+- [Services](#services)
+- [Expertise](#expertise)
+- [Industries Served](#industries-served)
+- [Key Technologies](#key-technologies)
+- [Sustainability Efforts](#sustainability-efforts)
+- [Partnerships](#partnerships)
+- [Training and Support](#training-and-support)
+- [Advanced Solutions](#advanced-solutions)
 
-    Overview
-    Services
-    Expertise
-    Industries Served
-    Key Technologies
-    Sustainability Efforts
-    Partnerships
-    Training and Support
-    Advanced Solutions
 
 Overview
 
