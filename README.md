@@ -11,6 +11,7 @@ This repository serves as a knowledge base for Viada GmbH & Co. KG, highlighting
 - [Partnerships](#partnerships)
 - [Training and Support](#training-and-support)
 - [Advanced Solutions](#advanced-solutions)
+- [Contact Information](#contact-Information)
 
 
 Overview
@@ -90,3 +91,18 @@ Viada delivers advanced analytics solutions, including AI and machine learning, 
 Application Modernization
 
 Viada assists businesses in modernizing legacy applications by migrating them to cloud-native platforms, reducing costs, and improving performance.
+
+
+Contact Information
+
+Location:
+
+VIADA GmbH & Co. KG
+Freie-Vogel-Strasse 393
+D-44269 Dortmund, Germany
+
+Contact:
+
+    Tel.: +49.231.28668-100
+    Fax.: +49.231.28668-123
+    Email: kontakt@viada.de
